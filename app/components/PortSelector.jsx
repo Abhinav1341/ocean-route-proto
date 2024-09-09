@@ -1,16 +1,8 @@
 "use client";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
-const PortSelector = () => {
-  const [ports, setPorts] = useState({});
+const PortSelector = ({ ports, onSelectPort }) => {
   const [selectedPort, setSelectedPort] = useState(null);
-
-  useEffect(() => {
-    fetch("/ports.json")
-      .then((res) => res.json())
-      .then((data) => setPorts(data))
-      .catch((err) => console.error("Error Loading", err));
-  }, []);
 
   const truncatePortName = (name, maxLength = 64) => {
     return name.length > maxLength ? name.slice(0, maxLength) + "..." : name;
@@ -18,9 +10,9 @@ const PortSelector = () => {
 
   const handleSelectChange = (e) => {
     const portName = e.target.value;
-    setSelectedPort(
-      ports[portName] ? { name: portName, ...ports[portName] } : null
-    );
+    const selected = ports.find((port) => port.name === portName);
+    setSelectedPort(selected);
+    onSelectPort(selected);
   };
 
   return (
@@ -33,9 +25,9 @@ const PortSelector = () => {
         <option value="" disabled>
           Select a Port
         </option>
-        {Object.keys(ports).map((portName) => (
-          <option key={portName} value={portName}>
-            {truncatePortName(portName)}
+        {ports.map((port) => (
+          <option key={port.name} value={port.name}>
+            {truncatePortName(port.name)}
           </option>
         ))}
       </select>
