@@ -5,7 +5,7 @@ import "@maptiler/sdk/dist/maptiler-sdk.css";
 
 const MapComponent = ({ markers, path }) => {
   useEffect(() => {
-    maptilersdk.config.apiKey = process.env.NEXT_PUBLIC_API_KEY;
+    maptilersdk.config.apiKey = "f8z80lT5mrlIRgg0lcda";
 
     const map = new maptilersdk.Map({
       container: "map",

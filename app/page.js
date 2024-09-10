@@ -11,6 +11,7 @@ export default function Home() {
   });
   const [showMap, setShowMap] = useState(false);
   const [path, setPath] = useState([]);
+  const [isLoading, setIsLoading] = useState(false); // New loading state
 
   useEffect(() => {
     fetch("/ports.json")
@@ -33,6 +34,7 @@ export default function Home() {
 
   const handleShowMap = () => {
     setShowMap(true);
+    setIsLoading(true); // Start loading
 
     if (selectedPorts.origin && selectedPorts.destination) {
       const data = {
@@ -56,6 +58,9 @@ export default function Home() {
         })
         .catch((error) => {
           console.error("Error:", error);
+        })
+        .finally(() => {
+          setIsLoading(false); // End loading
         });
     }
   };
@@ -88,7 +93,8 @@ export default function Home() {
         Show on Map
       </button>
       <div>
-        {showMap && markers.length > 0 && (
+        {isLoading && <p>Loading map...</p>} {/* Loading indicator */}
+        {showMap && !isLoading && markers.length > 0 && (
           <MapComponent markers={markers} path={path} />
         )}
       </div>
