@@ -42,7 +42,7 @@ export default function Home() {
         end_long: selectedPorts.destination.longitude,
       };
 
-      fetch("http://10.1.11.10:5000/getRoute", {
+      fetch("http://3.106.226.146:5000/getRoute", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
