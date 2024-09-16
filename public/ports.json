@@ -1,726 +1,802 @@
 {
-    "Barrow Island": {
-      "latitude": -20.7802321,
-      "longitude": 115.407375
-    },
-    "Bunbury": {
-      "latitude": -33.3267797,
-      "longitude": 115.636698
-    },
-    "Busselton": {
-      "latitude": -33.644499,
-      "longitude": 115.3488754
-    },
-    "Challenger Harbour": {
-      "latitude": -32.0629856,
-      "longitude": 115.7403878
-    },
-    "Cockatoo Island": {
-      "latitude": -33.8475972,
-      "longitude": 151.1721585
-    },
-    "Cossack": {
-      "latitude": -20.6830185,
-      "longitude": 117.2251868
-    },
-    "Dampier": {
-      "latitude": -20.6624798,
-      "longitude": 116.7119013
-    },
-    "Fishing Boat Harbour": {
-      "latitude": -32.0620241,
-      "longitude": 115.7452549
-    },
-    "Fremantle": {
-      "latitude": -32.0534086,
-      "longitude": 115.7586172
-    },
-    "Geraldton": {
-      "latitude": -28.77035,
-      "longitude": 114.6147159
-    },
-    "Hamelin Bay": {
-      "latitude": -34.2202758,
-      "longitude": 115.0313474
-    },
-    "Koolan Island": {
-      "latitude": -16.1334988,
-      "longitude": 123.7612062
-    },
-    "Kwinana": {
-      "latitude": -32.233854,
-      "longitude": 115.8211484
-    },
-    "Port Hedland": {
-      "latitude": -20.3111814,
-      "longitude": 118.5801181
-    },
-    "Thompsons Bay, Western Australia": {
-      "latitude": -25,
-      "longitude": 122
-    },
-    "Wyndham": {
-      "latitude": -15.4867977,
-      "longitude": 128.1236196
-    },
-    "Port Adelaide": {
-      "latitude": -34.8342755,
-      "longitude": 138.5123548
-    },
-    "Port Lincoln": {
-      "latitude": -34.7211905,
-      "longitude": 135.8592218
-    },
-    "Port Pirie": {
-      "latitude": -33.1791249,
-      "longitude": 138.0058614
-    },
-    "Strahan": {
-      "latitude": -42.1525389,
-      "longitude": 145.3282194
-    },
-    "Geelong": {
-      "latitude": -38.1493248,
-      "longitude": 144.3598241
-    },
-    "Port of Melbourne": {
-      "latitude": -37.8132566,
-      "longitude": 144.9241526
-    },
-    "Port of Chittagong": {
-      "latitude": 22.91667,
-      "longitude": 91.5
-    },
-    "Matarbari Port": {
-      "latitude": 21.7037556,
-      "longitude": 91.8918998
-    },
-    "Khalifa Bin Salman Port": {
-      "latitude": 26.1886117,
-      "longitude": 50.7142116
-    },
-    "Mina Salman Port": {
-      "latitude": 14.5833,
-      "longitude": 120.9667
-    },
-    "Port of Djibouti in Djibouti City": {
-      "latitude": 11.56,
-      "longitude": 43.06
-    },
-    "Hurghada": {
-      "latitude": 27.222556,
-      "longitude": 33.8307062
-    },
-    "Suez": {
-      "latitude": 29.974498,
-      "longitude": 32.537086
-    },
-    "Massawa": {
-      "latitude": 15.6031828,
-      "longitude": 39.4636974
-    },
-    "Alang": {
-      "latitude": 21.3968581,
-      "longitude": 72.1774463
-    },
-    "Angré Port": {
-      "latitude": 14.5833,
-      "longitude": 120.9667
-    },
-    "Beypore": {
-      "latitude": 11.1790668,
-      "longitude": 75.8101768
-    },
-    "Bhavnagar": {
-      "latitude": 21.7718836,
-      "longitude": 72.1416449
-    },
-    "Cuddalore": {
-      "latitude": 11.520207,
-      "longitude": 79.3396356
-    },
-    "Car Nicobar": {
-      "latitude": 9.187057,
-      "longitude": 92.7730136
-    },
-    "Dahej": {
-      "latitude": 21.709301,
-      "longitude": 72.5893963
-    },
-    "Gangavaram Port": {
-      "latitude": 17.6365833,
-      "longitude": 83.2240233
-    },
-    "Visakhapatnam Port": {
-      "latitude": 17.7193878,
-      "longitude": 83.2549679
-    },
-    "Gopalpur-on-Sea": {
-      "latitude": 19.2598878,
-      "longitude": 84.9051656
-    },
-    "Hazira": {
-      "latitude": 21.0956055,
-      "longitude": 72.6466021
-    },
-    "Haldia": {
-      "latitude": 22.028124,
-      "longitude": 88.0632655
-    },
-    "Jakhau": {
-      "latitude": 23.2197985,
-      "longitude": 68.7142064
-    },
-    "Jawaharlal Nehru Port Trust": {
-      "latitude": 18.9161565,
-      "longitude": 72.9922269
-    },
-    "Kakinada": {
-      "latitude": 16.9437385,
-      "longitude": 82.2350607
-    },
-    "Cochin Port (includes International Container Transshipment Terminal, Kochi)": {
-      "latitude": 14.5833,
-      "longitude": 120.9667
-    },
-    "Kolkata": {
-      "latitude": 22.5726459,
-      "longitude": 88.3638953
-    },
-    "Kollam": {
-      "latitude": 8.8879509,
-      "longitude": 76.5955013
-    },
-    "Kozhikode": {
-      "latitude": 11.2450558,
-      "longitude": 75.7754716
-    },
-    "Krishnapatnam Port": {
-      "latitude": 14.2630625,
-      "longitude": 80.120552
-    },
-    "Magdalla": {
-      "latitude": 21.1612169,
-      "longitude": 72.803401
-    },
-    "Chennai Port Trust, Chennai": {
-      "latitude": 13.105744,
-      "longitude": 80.2963754
-    },
-    "Mangalore (NMPT)": {
-      "latitude": 12.9171839,
-      "longitude": 74.8118992
-    },
-    "Mormugao": {
-      "latitude": 15.4102428,
-      "longitude": 73.7936048
-    },
-    "Port of Mumbai": {
-      "latitude": 19.07283,
-      "longitude": 72.88261
-    },
-    "Navlakhi": {
-      "latitude": 22.9582815,
-      "longitude": 70.4496687
-    },
-    "Panaji": {
-      "latitude": 15.4989946,
-      "longitude": 73.8282141
-    },
-    "Paradip": {
-      "latitude": 20.286946,
-      "longitude": 86.6739979
-    },
-    "Pipavav": {
-      "latitude": 20.9388589,
-      "longitude": 71.4770408
-    },
-    "Pondicherry": {
-      "latitude": 10.9156489,
-      "longitude": 79.8069488
-    },
-    "Porbandar": {
-      "latitude": 21.602975,
-      "longitude": 69.8538067
-    },
-    "Port Blair": {
-      "latitude": 11.6645348,
-      "longitude": 92.7390448
-    },
-    "Ratnagiri": {
-      "latitude": 17.2826079,
-      "longitude": 73.4569787
-    },
-    "Sikka": {
-      "latitude": -8.5946841,
-      "longitude": 122.0926352
-    },
-    "Tuna Port": {
-      "latitude": 22.9309816,
-      "longitude": 70.1029335
-    },
-    "V. O. Chidambaranar Port Trust, Thoothukudi": {
-      "latitude": 8.78333,
-      "longitude": 78.13333
-    },
-    "Veraval": {
-      "latitude": 20.9101099,
-      "longitude": 70.365279
-    },
-    "INS Kadamba": {
-      "latitude": 14.7769031,
-      "longitude": 74.1222769
-    },
-    "INS Dronacharya": {
-      "latitude": 9.9539814,
-      "longitude": 76.2398194
-    },
-    "INS Venduruthy": {
-      "latitude": 9.9532837,
-      "longitude": 76.2791981
-    },
-    "Karaikal": {
-      "latitude": 10.91571,
-      "longitude": 79.8375761
-    },
-    "Machilipatnam": {
-      "latitude": 16.1817369,
-      "longitude": 81.1348181
-    },
-    "Nagapattinam": {
-      "latitude": 10.6026202,
-      "longitude": 79.7619348
-    },
-    "Dhamra": {
-      "latitude": 20.7955666,
-      "longitude": 86.9010186
-    },
-    "Belawan": {
-      "latitude": -0.5791924,
-      "longitude": 114.4500022
-    },
-    "Benoa": {
-      "latitude": -8.8007914,
-      "longitude": 115.2105452
-    },
-    "Dumai": {
-      "latitude": 1.6631967,
-      "longitude": 101.4470369
-    },
-    "Tanjung Emas": {
-      "latitude": 2.0475573,
-      "longitude": 102.5523839
-    },
-    "Tanjung Intan (Cilacap)": {
-      "latitude": -7.7358466,
-      "longitude": 108.9940534
-    },
-    "Port of Tanjung Priok": {
-      "latitude": -6.1085133,
-      "longitude": 106.8923686
-    },
-    "Port of Tanjung Perak": {
-      "latitude": -5.263,
-      "longitude": 121.7939
-    },
-    "Port of Chabahar": {
-      "latitude": 25.2919,
-      "longitude": 60.643
-    },
-    "Bandar Abbas": {
-      "latitude": 27.1793466,
-      "longitude": 56.2781423
-    },
-    "Bandar Imam Khomeini": {
-      "latitude": 30.5300727,
-      "longitude": 49.164945
-    },
-    "Umm Qasr": {
-      "latitude": 30.0323351,
-      "longitude": 47.9214551
-    },
-    "Port of Eilat": {
-      "latitude": 29.533352,
-      "longitude": 34.9408559
-    },
-    "Mombasa": {
-      "latitude": -4.05052,
-      "longitude": 39.667169
-    },
-    "Watamu": {
-      "latitude": -3.35,
-      "longitude": 40.0166
-    },
-    "Shuwaikh port": {
-      "latitude": 29.3522601,
-      "longitude": 47.9083985
-    },
-    "Antsiranana (Diego Suarez)": {
-      "latitude": -12.2688219,
-      "longitude": 49.287831
-    },
-    "Mahajanga": {
-      "latitude": -15.7181492,
-      "longitude": 46.3172577
-    },
-    "Morondava": {
-      "latitude": -20.2951102,
-      "longitude": 44.2786121
-    },
-    "Toamasina (Tamatave)": {
-      "latitude": -18.1547756,
-      "longitude": 49.4154087
-    },
-    "Tolagnaro (Fort Dauphin)": {
-      "latitude": -25.0353003,
-      "longitude": 46.9922225
-    },
-    "Toliara (Tulear)": {
-      "latitude": -23.354173,
-      "longitude": 43.66966
-    },
-    "Johor Port in Pasir Gudang": {
-      "latitude": 1.462,
-      "longitude": 103.9053
-    },
-    "Tanjung Langsat Port": {
-      "latitude": 14.5833,
-      "longitude": 120.9667
-    },
-    "Port of Tanjung Pelepas": {
-      "latitude": 1.3552449,
-      "longitude": 103.5542256
-    },
-    "Port Klang (includes Westport and Northport; owned by Port Klang Authority)": {
-      "latitude": 3,
-      "longitude": 101.4
-    },
-    "Port of Penang (includes Swettenham Pier, North Butterworth Container Terminal, Butterworth Deep Water Wharves and Prai Bulk Cargo Terminal)": {
-      "latitude": 5.41123,
-      "longitude": 100.33543
-    },
-    "Male": {
-      "latitude": 4.1779879,
-      "longitude": 73.5107387
-    },
-    "Port Louis": {
-      "latitude": -20.1624522,
-      "longitude": 57.5028044
-    },
-    "Port Mathurin": {
-      "latitude": -19.6808372,
-      "longitude": 63.422113
-    },
-    "Maputo": {
-      "latitude": -25.966213,
-      "longitude": 32.56745
-    },
-    "Inhambane": {
-      "latitude": -22.779116,
-      "longitude": 34.5661741
-    },
-    "Beira": {
-      "latitude": -19.828707,
-      "longitude": 34.841782
-    },
-    "Quelimane": {
-      "latitude": -17.87751,
-      "longitude": 36.890216
-    },
-    "Angoche": {
-      "latitude": -16.0962442,
-      "longitude": 39.7616724
-    },
-    "Nacala": {
-      "latitude": -14.5583059,
-      "longitude": 40.6863816
-    },
-    "Pemba": {
-      "latitude": -5.1690625,
-      "longitude": 39.7994251
-    },
-    "Kyaukphyu": {
-      "latitude": 19.4266675,
-      "longitude": 93.5479844
-    },
-    "Yangon": {
-      "latitude": 16.7967129,
-      "longitude": 96.1609916
-    },
-    "Mawlamyaing": {
-      "latitude": 16.4908026,
-      "longitude": 97.6284825
-    },
-    "Sittwe": {
-      "latitude": 20.139197,
-      "longitude": 92.8970859
-    },
-    "Port of Salalah": {
-      "latitude": 16.94355,
-      "longitude": 54.01162
-    },
-    "Port of Sohar": {
-      "latitude": 24.3643,
-      "longitude": 56.74681
-    },
-    "Port Sultan Qaboos": {
-      "latitude": 23.6271181,
-      "longitude": 58.5661534
-    },
-    "Muscat": {
-      "latitude": 23.5882019,
-      "longitude": 58.3829448
-    },
-    "Gaddani": {
-      "latitude": 17.6184599,
-      "longitude": 120.6830066
-    },
-    "Gwadar Port": {
-      "latitude": 25.1085929,
-      "longitude": 62.3394618
-    },
-    "Port of Karachi": {
-      "latitude": 24.9056,
-      "longitude": 67.0822
-    },
-    "Keti Bandar": {
-      "latitude": 24.1438796,
-      "longitude": 67.4510995
-    },
-    "Port of Pasni": {
-      "latitude": 25.26311,
-      "longitude": 63.47103
-    },
-    "Port Qasim": {
-      "latitude": 24.8307497,
-      "longitude": 67.3863081
-    },
-    "Doha": {
-      "latitude": 25.2856329,
-      "longitude": 51.5264162
-    },
-    "Dammam": {
-      "latitude": 26.4367824,
-      "longitude": 50.1039991
-    },
-    "Khafji": {
-      "latitude": 28.4225409,
-      "longitude": 48.4927814
-    },
-    "Khobar": {
-      "latitude": 26.3039999,
-      "longitude": 50.1960237
-    },
-    "Jubail": {
-      "latitude": 27.0006968,
-      "longitude": 49.6532161
-    },
-    "Ras Tanura": {
-      "latitude": 26.707417,
-      "longitude": 50.067352
-    },
-    "Farasan (city)": {
-      "latitude": 16.70222,
-      "longitude": 42.11833
-    },
-    "Jeddah": {
-      "latitude": 21.5810088,
-      "longitude": 39.1653612
-    },
-    "Jizan": {
-      "latitude": 16.894719,
-      "longitude": 42.5579758
-    },
-    "Rabigh": {
-      "latitude": 22.7989669,
-      "longitude": 39.0335547
-    },
-    "Yanbu": {
-      "latitude": 24.089019,
-      "longitude": 38.0687076
-    },
-    "Port Victoria": {
-      "latitude": -4.6232085,
-      "longitude": 55.452359
-    },
-    "Port of Singapore": {
-      "latitude": 1.2736105,
-      "longitude": 103.8013118
-    },
-    "Barawa": {
-      "latitude": 1.112777,
-      "longitude": 44.031005
-    },
-    "Bosaso": {
-      "latitude": 11.0026149,
-      "longitude": 49.4107227
-    },
-    "El-Ma'an": {
-      "latitude": 3.61271,
-      "longitude": 41.87632
-    },
-    "Eyl": {
-      "latitude": 7.9806632,
-      "longitude": 49.8187816
-    },
-    "Hobyo": {
-      "latitude": 5.859166,
-      "longitude": 48.2540903
-    },
-    "Kismaayo": {
-      "latitude": -0.3602433,
-      "longitude": 42.5409025
-    },
-    "Mareeg": {
-      "latitude": 9.962708,
-      "longitude": 50.4498332
-    },
-    "Merca": {
-      "latitude": 1.7148358,
-      "longitude": 44.7699326
-    },
-    "Mogadishu": {
-      "latitude": 2.0349312,
-      "longitude": 45.3419183
-    },
-    "Qandala": {
-      "latitude": 11.471934,
-      "longitude": 49.87341
-    },
-    "Ras Kamboni": {
-      "latitude": -1.639083,
-      "longitude": 41.588518
-    },
-    "Berbera": {
-      "latitude": 10.4386215,
-      "longitude": 45.0134007
-    },
-    "Las Khorey": {
-      "latitude": 10.5498247,
-      "longitude": 48.7966621
-    },
-    "Zeila": {
-      "latitude": 11.0253405,
-      "longitude": 43.4048992
-    },
-    "Durban": {
-      "latitude": -29.861825,
-      "longitude": 31.009909
-    },
-    "Richards Bay": {
-      "latitude": -28.7707857,
-      "longitude": 32.0577775
-    },
-    "Port Elizabeth": {
-      "latitude": -33.9618359,
-      "longitude": 25.6186512
-    },
-    "Cape Town": {
-      "latitude": -33.928992,
-      "longitude": 18.417396
-    },
-    "Port of Ngqura": {
-      "latitude": -33.8016866,
-      "longitude": 25.6555284
-    },
-    "Mossel Bay": {
-      "latitude": -34.1832022,
-      "longitude": 22.1536248
-    },
-    "East London": {
-      "latitude": -33.0191604,
-      "longitude": 27.8998573
-    },
-    "Colombo": {
-      "latitude": 6.9388614,
-      "longitude": 79.8542005
-    },
-    "Galle": {
-      "latitude": 6.0328139,
-      "longitude": 80.214955
-    },
-    "Hambantota": {
-      "latitude": 6.1249126,
-      "longitude": 81.1242563
-    },
-    "Trincomalee": {
-      "latitude": 8.576425,
-      "longitude": 81.2344952
-    },
-    "Port Sudan": {
-      "latitude": 19.619217,
-      "longitude": 37.211709
-    },
-    "Port of Dar es Salaam": {
-      "latitude": -6.83523,
-      "longitude": 39.19597
-    },
-    "Mtwara": {
-      "latitude": -10.6990264,
-      "longitude": 39.0217984
-    },
-    "Zanzibar": {
-      "latitude": -6.0999709,
-      "longitude": 39.3209535
-    },
-    "Khawr Fakkan": {
-      "latitude": 25.3338796,
-      "longitude": 56.365565
-    },
-    "Dubai": {
-      "latitude": 25.2653471,
-      "longitude": 55.2924914
-    },
-    "Hamriyah Port": {
-      "latitude": 25.2993098,
-      "longitude": 55.3346414
-    },
-    "Jebel Ali": {
-      "latitude": 24.9775987,
-      "longitude": 55.0910742
-    },
-    "Aden": {
-      "latitude": 12.789585,
-      "longitude": 45.028504
-    },
-    "Mukalla": {
-      "latitude": 14.5424624,
-      "longitude": 49.1231345
-    },
-    "Hodeidah": {
-      "latitude": 14.7978677,
-      "longitude": 42.9544872
-    },
-    "Port of Mongla": {
-      "latitude": 22.4886,
-      "longitude": 89.5926
-    },
-    "Port of Paira": {
-      "latitude": 21.9894,
-      "longitude": 90.2792
-    },
-    "Kamarajar Port Limited, Ennore": {
-      "latitude": 13.2547,
-      "longitude": 80.3202
-    },
-    "Dabhol LNG Terminal": {
-      "latitude": 17.5242,
-      "longitude": 73.1689
-    },
-    "INS Dweeprakshak": {
-      "latitude": 10.5723,
-      "longitude": 72.6358
-    },
-    "INS Vajrabahu": {
-      "latitude": 18.9283,
-      "longitude": 72.8352
-    },
-    "Al Duqm Port & Drydock": {
-      "latitude": 19.6606,
-      "longitude": 57.6992
-    },
-    "Al Qunfotha": {
-      "latitude": 19.1208,
-      "longitude": 41.0841
-    }
+  "Barrow Island": {
+    "latitude": -20.7802321,
+    "longitude": 115.407375,
+    "ward_name": "Ward_3996"
+  },
+  "Bunbury": {
+    "latitude": -33.3267797,
+    "longitude": 115.636698,
+    "ward_name": "Ward_2696"
+  },
+  "Busselton": {
+    "latitude": -33.644499,
+    "longitude": 115.3488754,
+    "ward_name": "Ward_2696"
+  },
+  "Challenger Harbour": {
+    "latitude": -32.0629856,
+    "longitude": 115.7403878,
+    "ward_name": "Ward_2796"
+  },
+  "Cossack": {
+    "latitude": -20.6830185,
+    "longitude": 117.2251868,
+    "ward_name": "Ward_3998"
+  },
+  "Dampier": {
+    "latitude": -20.6624798,
+    "longitude": 116.7119013,
+    "ward_name": "Ward_3997"
+  },
+  "Fishing Boat Harbour": {
+    "latitude": -32.0620241,
+    "longitude": 115.7452549,
+    "ward_name": "Ward_2796"
+  },
+  "Fremantle": {
+    "latitude": -32.0534086,
+    "longitude": 115.7586172,
+    "ward_name": "Ward_2796"
+  },
+  "Geraldton": {
+    "latitude": -28.77035,
+    "longitude": 114.6147159,
+    "ward_name": "Ward_3195"
+  },
+  "Hamelin Bay": {
+    "latitude": -34.2202758,
+    "longitude": 115.0313474,
+    "ward_name": "Ward_2596"
+  },
+  "Kwinana": {
+    "latitude": -32.233854,
+    "longitude": 115.8211484,
+    "ward_name": "Ward_2796"
+  },
+  "Port Hedland": {
+    "latitude": -20.3111814,
+    "longitude": 118.5801181,
+    "ward_name": "Ward_3999"
+  },
+  "Port of Chittagong": {
+    "latitude": 22.91667,
+    "longitude": 91.5,
+    "ward_name": "Ward_8272"
+  },
+  "Matarbari Port": {
+    "latitude": 21.7037556,
+    "longitude": 91.8918998,
+    "ward_name": "Ward_8172"
+  },
+  "Khalifa Bin Salman Port": {
+    "latitude": 26.1886117,
+    "longitude": 50.7142116,
+    "ward_name": "Ward_8631"
+  },
+  "Port of Djibouti in Djibouti City": {
+    "latitude": 11.56,
+    "longitude": 43.06,
+    "ward_name": "Ward_7124"
+  },
+  "Hurghada": {
+    "latitude": 27.222556,
+    "longitude": 33.8307062,
+    "ward_name": "Ward_8714"
+  },
+  "Suez": {
+    "latitude": 29.974498,
+    "longitude": 32.537086,
+    "ward_name": "Ward_8913"
+  },
+  "Massawa": {
+    "latitude": 15.6031828,
+    "longitude": 39.4636974,
+    "ward_name": "Ward_7520"
+  },
+  "Alang": {
+    "latitude": 21.3968581,
+    "longitude": 72.1774463,
+    "ward_name": "Ward_8153"
+  },
+  "Beypore": {
+    "latitude": 11.1790668,
+    "longitude": 75.8101768,
+    "ward_name": "Ward_7156"
+  },
+  "Bhavnagar": {
+    "latitude": 21.7718836,
+    "longitude": 72.1416449,
+    "ward_name": "Ward_8153"
+  },
+  "Cuddalore": {
+    "latitude": 11.520207,
+    "longitude": 79.3396356,
+    "ward_name": "Ward_7160"
+  },
+  "Car Nicobar": {
+    "latitude": 9.187057,
+    "longitude": 92.7730136,
+    "ward_name": "Ward_6973"
+  },
+  "Dahej": {
+    "latitude": 21.709301,
+    "longitude": 72.5893963,
+    "ward_name": "Ward_8153"
+  },
+  "Gangavaram Port": {
+    "latitude": 17.6365833,
+    "longitude": 83.2240233,
+    "ward_name": "Ward_7764"
+  },
+  "Visakhapatnam Port": {
+    "latitude": 17.7193878,
+    "longitude": 83.2549679,
+    "ward_name": "Ward_7764"
+  },
+  "Gopalpur-on-Sea": {
+    "latitude": 19.2598878,
+    "longitude": 84.9051656,
+    "ward_name": "Ward_7965"
+  },
+  "Hazira": {
+    "latitude": 21.0956055,
+    "longitude": 72.6466021,
+    "ward_name": "Ward_8153"
+  },
+  "Haldia": {
+    "latitude": 22.028124,
+    "longitude": 88.0632655,
+    "ward_name": "Ward_8269"
+  },
+  "Jakhau": {
+    "latitude": 23.2197985,
+    "longitude": 68.7142064,
+    "ward_name": "Ward_8349"
+  },
+  "Jawaharlal Nehru Port Trust": {
+    "latitude": 18.9161565,
+    "longitude": 72.9922269,
+    "ward_name": "Ward_7853"
+  },
+  "Kakinada": {
+    "latitude": 16.9437385,
+    "longitude": 82.2350607,
+    "ward_name": "Ward_7663"
+  },
+  "Kolkata": {
+    "latitude": 22.5726459,
+    "longitude": 88.3638953,
+    "ward_name": "Ward_8269"
+  },
+  "Kollam": {
+    "latitude": 8.8879509,
+    "longitude": 76.5955013,
+    "ward_name": "Ward_6857"
+  },
+  "Kozhikode": {
+    "latitude": 11.2450558,
+    "longitude": 75.7754716,
+    "ward_name": "Ward_7156"
+  },
+  "Krishnapatnam Port": {
+    "latitude": 14.2630625,
+    "longitude": 80.120552,
+    "ward_name": "Ward_7461"
+  },
+  "Magdalla": {
+    "latitude": 21.1612169,
+    "longitude": 72.803401,
+    "ward_name": "Ward_8153"
+  },
+  "Chennai Port Trust, Chennai": {
+    "latitude": 13.105744,
+    "longitude": 80.2963754,
+    "ward_name": "Ward_7361"
+  },
+  "Mangalore (NMPT)": {
+    "latitude": 12.9171839,
+    "longitude": 74.8118992,
+    "ward_name": "Ward_7255"
+  },
+  "Mormugao": {
+    "latitude": 15.4102428,
+    "longitude": 73.7936048,
+    "ward_name": "Ward_7554"
+  },
+  "Port of Mumbai": {
+    "latitude": 19.07283,
+    "longitude": 72.88261,
+    "ward_name": "Ward_7953"
+  },
+  "Navlakhi": {
+    "latitude": 22.9582815,
+    "longitude": 70.4496687,
+    "ward_name": "Ward_8251"
+  },
+  "Panaji": {
+    "latitude": 15.4989946,
+    "longitude": 73.8282141,
+    "ward_name": "Ward_7554"
+  },
+  "Paradip": {
+    "latitude": 20.286946,
+    "longitude": 86.6739979,
+    "ward_name": "Ward_8067"
+  },
+  "Pipavav": {
+    "latitude": 20.9388589,
+    "longitude": 71.4770408,
+    "ward_name": "Ward_8052"
+  },
+  "Pondicherry": {
+    "latitude": 10.9156489,
+    "longitude": 79.8069488,
+    "ward_name": "Ward_7060"
+  },
+  "Porbandar": {
+    "latitude": 21.602975,
+    "longitude": 69.8538067,
+    "ward_name": "Ward_8150"
+  },
+  "Port Blair": {
+    "latitude": 11.6645348,
+    "longitude": 92.7390448,
+    "ward_name": "Ward_7173"
+  },
+  "Ratnagiri": {
+    "latitude": 17.2826079,
+    "longitude": 73.4569787,
+    "ward_name": "Ward_7754"
+  },
+  "Tuna Port": {
+    "latitude": 22.9309816,
+    "longitude": 70.1029335,
+    "ward_name": "Ward_8251"
+  },
+  "V. O. Chidambaranar Port Trust, Thoothukudi": {
+    "latitude": 8.78333,
+    "longitude": 78.13333,
+    "ward_name": "Ward_6859"
+  },
+  "Veraval": {
+    "latitude": 20.9101099,
+    "longitude": 70.365279,
+    "ward_name": "Ward_8051"
+  },
+  "INS Kadamba": {
+    "latitude": 14.7769031,
+    "longitude": 74.1222769,
+    "ward_name": "Ward_7455"
+  },
+  "INS Dronacharya": {
+    "latitude": 9.9539814,
+    "longitude": 76.2398194,
+    "ward_name": "Ward_6957"
+  },
+  "INS Venduruthy": {
+    "latitude": 9.9532837,
+    "longitude": 76.2791981,
+    "ward_name": "Ward_6957"
+  },
+  "Karaikal": {
+    "latitude": 10.91571,
+    "longitude": 79.8375761,
+    "ward_name": "Ward_7060"
+  },
+  "Machilipatnam": {
+    "latitude": 16.1817369,
+    "longitude": 81.1348181,
+    "ward_name": "Ward_7662"
+  },
+  "Nagapattinam": {
+    "latitude": 10.6026202,
+    "longitude": 79.7619348,
+    "ward_name": "Ward_7060"
+  },
+  "Dhamra": {
+    "latitude": 20.7955666,
+    "longitude": 86.9010186,
+    "ward_name": "Ward_8067"
+  },
+  "Belawan": {
+    "latitude": -0.5791924,
+    "longitude": 114.4500022,
+    "ward_name": "Ward_5995"
+  },
+  "Benoa": {
+    "latitude": -8.8007914,
+    "longitude": 115.2105452,
+    "ward_name": "Ward_5196"
+  },
+  "Dumai": {
+    "latitude": 1.6631967,
+    "longitude": 101.4470369,
+    "ward_name": "Ward_6182"
+  },
+  "Tanjung Emas": {
+    "latitude": 2.0475573,
+    "longitude": 102.5523839,
+    "ward_name": "Ward_6283"
+  },
+  "Tanjung Intan (Cilacap)": {
+    "latitude": -7.7358466,
+    "longitude": 108.9940534,
+    "ward_name": "Ward_5289"
+  },
+  "Port of Tanjung Priok": {
+    "latitude": -6.1085133,
+    "longitude": 106.8923686,
+    "ward_name": "Ward_5387"
+  },
+  "Port of Chabahar": {
+    "latitude": 25.2919,
+    "longitude": 60.643,
+    "ward_name": "Ward_8541"
+  },
+  "Bandar Abbas": {
+    "latitude": 27.1793466,
+    "longitude": 56.2781423,
+    "ward_name": "Ward_8737"
+  },
+  "Port of Eilat": {
+    "latitude": 29.533352,
+    "longitude": 34.9408559,
+    "ward_name": "Ward_8915"
+  },
+  "Mombasa": {
+    "latitude": -4.05052,
+    "longitude": 39.667169,
+    "ward_name": "Ward_5520"
+  },
+  "Watamu": {
+    "latitude": -3.35,
+    "longitude": 40.0166,
+    "ward_name": "Ward_5621"
+  },
+  "Shuwaikh port": {
+    "latitude": 29.3522601,
+    "longitude": 47.9083985,
+    "ward_name": "Ward_8928"
+  },
+  "Antsiranana (Diego Suarez)": {
+    "latitude": -12.2688219,
+    "longitude": 49.287831,
+    "ward_name": "Ward_4730"
+  },
+  "Mahajanga": {
+    "latitude": -15.7181492,
+    "longitude": 46.3172577,
+    "ward_name": "Ward_4427"
+  },
+  "Morondava": {
+    "latitude": -20.2951102,
+    "longitude": 44.2786121,
+    "ward_name": "Ward_3925"
+  },
+  "Toamasina (Tamatave)": {
+    "latitude": -18.1547756,
+    "longitude": 49.4154087,
+    "ward_name": "Ward_4130"
+  },
+  "Tolagnaro (Fort Dauphin)": {
+    "latitude": -25.0353003,
+    "longitude": 46.9922225,
+    "ward_name": "Ward_3427"
+  },
+  "Toliara (Tulear)": {
+    "latitude": -23.354173,
+    "longitude": 43.66966,
+    "ward_name": "Ward_3624"
+  },
+  "Johor Port in Pasir Gudang": {
+    "latitude": 1.462,
+    "longitude": 103.9053,
+    "ward_name": "Ward_6184"
+  },
+  "Port of Tanjung Pelepas": {
+    "latitude": 1.3552449,
+    "longitude": 103.5542256,
+    "ward_name": "Ward_6184"
+  },
+  "Port of Penang (includes Swettenham Pier, North Butterworth Container Terminal, Butterworth Deep Water Wharves and Prai Bulk Cargo Terminal)": {
+    "latitude": 5.41123,
+    "longitude": 100.33543,
+    "ward_name": "Ward_6581"
+  },
+  "Male": {
+    "latitude": 4.1779879,
+    "longitude": 73.5107387,
+    "ward_name": "Ward_6454"
+  },
+  "Port Louis": {
+    "latitude": -20.1624522,
+    "longitude": 57.5028044,
+    "ward_name": "Ward_3938"
+  },
+  "Port Mathurin": {
+    "latitude": -19.6808372,
+    "longitude": 63.422113,
+    "ward_name": "Ward_4044"
+  },
+  "Maputo": {
+    "latitude": -25.966213,
+    "longitude": 32.56745,
+    "ward_name": "Ward_3413"
+  },
+  "Inhambane": {
+    "latitude": -22.779116,
+    "longitude": 34.5661741,
+    "ward_name": "Ward_3715"
+  },
+  "Beira": {
+    "latitude": -19.828707,
+    "longitude": 34.841782,
+    "ward_name": "Ward_4015"
+  },
+  "Quelimane": {
+    "latitude": -17.87751,
+    "longitude": 36.890216,
+    "ward_name": "Ward_4217"
+  },
+  "Angoche": {
+    "latitude": -16.0962442,
+    "longitude": 39.7616724,
+    "ward_name": "Ward_4320"
+  },
+  "Nacala": {
+    "latitude": -14.5583059,
+    "longitude": 40.6863816,
+    "ward_name": "Ward_4521"
+  },
+  "Pemba": {
+    "latitude": -5.1690625,
+    "longitude": 39.7994251,
+    "ward_name": "Ward_5420"
+  },
+  "Kyaukphyu": {
+    "latitude": 19.4266675,
+    "longitude": 93.5479844,
+    "ward_name": "Ward_7974"
+  },
+  "Yangon": {
+    "latitude": 16.7967129,
+    "longitude": 96.1609916,
+    "ward_name": "Ward_7677"
+  },
+  "Mawlamyaing": {
+    "latitude": 16.4908026,
+    "longitude": 97.6284825,
+    "ward_name": "Ward_7678"
+  },
+  "Sittwe": {
+    "latitude": 20.139197,
+    "longitude": 92.8970859,
+    "ward_name": "Ward_8073"
+  },
+  "Port of Salalah": {
+    "latitude": 16.94355,
+    "longitude": 54.01162,
+    "ward_name": "Ward_7635"
+  },
+  "Port of Sohar": {
+    "latitude": 24.3643,
+    "longitude": 56.74681,
+    "ward_name": "Ward_8437"
+  },
+  "Port Sultan Qaboos": {
+    "latitude": 23.6271181,
+    "longitude": 58.5661534,
+    "ward_name": "Ward_8339"
+  },
+  "Muscat": {
+    "latitude": 23.5882019,
+    "longitude": 58.3829448,
+    "ward_name": "Ward_8339"
+  },
+  "Gwadar Port": {
+    "latitude": 25.1085929,
+    "longitude": 62.3394618,
+    "ward_name": "Ward_8543"
+  },
+  "Port of Karachi": {
+    "latitude": 24.9056,
+    "longitude": 67.0822,
+    "ward_name": "Ward_8448"
+  },
+  "Keti Bandar": {
+    "latitude": 24.1438796,
+    "longitude": 67.4510995,
+    "ward_name": "Ward_8448"
+  },
+  "Port of Pasni": {
+    "latitude": 25.26311,
+    "longitude": 63.47103,
+    "ward_name": "Ward_8544"
+  },
+  "Port Qasim": {
+    "latitude": 24.8307497,
+    "longitude": 67.3863081,
+    "ward_name": "Ward_8448"
+  },
+  "Doha": {
+    "latitude": 25.2856329,
+    "longitude": 51.5264162,
+    "ward_name": "Ward_8532"
+  },
+  "Dammam": {
+    "latitude": 26.4367824,
+    "longitude": 50.1039991,
+    "ward_name": "Ward_8631"
+  },
+  "Khafji": {
+    "latitude": 28.4225409,
+    "longitude": 48.4927814,
+    "ward_name": "Ward_8829"
+  },
+  "Khobar": {
+    "latitude": 26.3039999,
+    "longitude": 50.1960237,
+    "ward_name": "Ward_8631"
+  },
+  "Jubail": {
+    "latitude": 27.0006968,
+    "longitude": 49.6532161,
+    "ward_name": "Ward_8730"
+  },
+  "Ras Tanura": {
+    "latitude": 26.707417,
+    "longitude": 50.067352,
+    "ward_name": "Ward_8631"
+  },
+  "Farasan (city)": {
+    "latitude": 16.70222,
+    "longitude": 42.11833,
+    "ward_name": "Ward_7623"
+  },
+  "Jeddah": {
+    "latitude": 21.5810088,
+    "longitude": 39.1653612,
+    "ward_name": "Ward_8120"
+  },
+  "Jizan": {
+    "latitude": 16.894719,
+    "longitude": 42.5579758,
+    "ward_name": "Ward_7623"
+  },
+  "Rabigh": {
+    "latitude": 22.7989669,
+    "longitude": 39.0335547,
+    "ward_name": "Ward_8220"
+  },
+  "Yanbu": {
+    "latitude": 24.089019,
+    "longitude": 38.0687076,
+    "ward_name": "Ward_8419"
+  },
+  "Port Victoria": {
+    "latitude": -4.6232085,
+    "longitude": 55.452359,
+    "ward_name": "Ward_5536"
+  },
+  "Port of Singapore": {
+    "latitude": 1.2736105,
+    "longitude": 103.8013118,
+    "ward_name": "Ward_6184"
+  },
+  "Barawa": {
+    "latitude": 1.112777,
+    "longitude": 44.031005,
+    "ward_name": "Ward_6125"
+  },
+  "Bosaso": {
+    "latitude": 11.0026149,
+    "longitude": 49.4107227,
+    "ward_name": "Ward_7130"
+  },
+  "El-Ma'an": {
+    "latitude": 3.61271,
+    "longitude": 41.87632,
+    "ward_name": "Ward_6322"
+  },
+  "Eyl": {
+    "latitude": 7.9806632,
+    "longitude": 49.8187816,
+    "ward_name": "Ward_6730"
+  },
+  "Hobyo": {
+    "latitude": 5.859166,
+    "longitude": 48.2540903,
+    "ward_name": "Ward_6529"
+  },
+  "Kismaayo": {
+    "latitude": -0.3602433,
+    "longitude": 42.5409025,
+    "ward_name": "Ward_5923"
+  },
+  "Mareeg": {
+    "latitude": 9.962708,
+    "longitude": 50.4498332,
+    "ward_name": "Ward_6931"
+  },
+  "Merca": {
+    "latitude": 1.7148358,
+    "longitude": 44.7699326,
+    "ward_name": "Ward_6125"
+  },
+  "Mogadishu": {
+    "latitude": 2.0349312,
+    "longitude": 45.3419183,
+    "ward_name": "Ward_6226"
+  },
+  "Qandala": {
+    "latitude": 11.471934,
+    "longitude": 49.87341,
+    "ward_name": "Ward_7130"
+  },
+  "Ras Kamboni": {
+    "latitude": -1.639083,
+    "longitude": 41.588518,
+    "ward_name": "Ward_5822"
+  },
+  "Berbera": {
+    "latitude": 10.4386215,
+    "longitude": 45.0134007,
+    "ward_name": "Ward_7026"
+  },
+  "Las Khorey": {
+    "latitude": 10.5498247,
+    "longitude": 48.7966621,
+    "ward_name": "Ward_7029"
+  },
+  "Zeila": {
+    "latitude": 11.0253405,
+    "longitude": 43.4048992,
+    "ward_name": "Ward_7124"
+  },
+  "Durban": {
+    "latitude": -29.861825,
+    "longitude": 31.009909,
+    "ward_name": "Ward_3012"
+  },
+  "Richards Bay": {
+    "latitude": -28.7707857,
+    "longitude": 32.0577775,
+    "ward_name": "Ward_3113"
+  },
+  "Port Elizabeth": {
+    "latitude": -33.9618359,
+    "longitude": 25.6186512,
+    "ward_name": "Ward_2606"
+  },
+  "Port of Ngqura": {
+    "latitude": -33.8016866,
+    "longitude": 25.6555284,
+    "ward_name": "Ward_2606"
+  },
+  "Mossel Bay": {
+    "latitude": -34.1832022,
+    "longitude": 22.1536248,
+    "ward_name": "Ward_2503"
+  },
+  "East London": {
+    "latitude": -33.0191604,
+    "longitude": 27.8998573,
+    "ward_name": "Ward_2608"
+  },
+  "Colombo": {
+    "latitude": 6.9388614,
+    "longitude": 79.8542005,
+    "ward_name": "Ward_6660"
+  },
+  "Galle": {
+    "latitude": 6.0328139,
+    "longitude": 80.214955,
+    "ward_name": "Ward_6661"
+  },
+  "Hambantota": {
+    "latitude": 6.1249126,
+    "longitude": 81.1242563,
+    "ward_name": "Ward_6662"
+  },
+  "Trincomalee": {
+    "latitude": 8.576425,
+    "longitude": 81.2344952,
+    "ward_name": "Ward_6862"
+  },
+  "Port Sudan": {
+    "latitude": 19.619217,
+    "longitude": 37.211709,
+    "ward_name": "Ward_7918"
+  },
+  "Port of Dar es Salaam": {
+    "latitude": -6.83523,
+    "longitude": 39.19597,
+    "ward_name": "Ward_5320"
+  },
+  "Mtwara": {
+    "latitude": -10.6990264,
+    "longitude": 39.0217984,
+    "ward_name": "Ward_4920"
+  },
+  "Zanzibar": {
+    "latitude": -6.0999709,
+    "longitude": 39.3209535,
+    "ward_name": "Ward_5320"
+  },
+  "Khawr Fakkan": {
+    "latitude": 25.3338796,
+    "longitude": 56.365565,
+    "ward_name": "Ward_8537"
+  },
+  "Dubai": {
+    "latitude": 25.2653471,
+    "longitude": 55.2924914,
+    "ward_name": "Ward_8536"
+  },
+  "Hamriyah Port": {
+    "latitude": 25.2993098,
+    "longitude": 55.3346414,
+    "ward_name": "Ward_8536"
+  },
+  "Jebel Ali": {
+    "latitude": 24.9775987,
+    "longitude": 55.0910742,
+    "ward_name": "Ward_8436"
+  },
+  "Aden": {
+    "latitude": 12.789585,
+    "longitude": 45.028504,
+    "ward_name": "Ward_7226"
+  },
+  "Mukalla": {
+    "latitude": 14.5424624,
+    "longitude": 49.1231345,
+    "ward_name": "Ward_7430"
+  },
+  "Hodeidah": {
+    "latitude": 14.7978677,
+    "longitude": 42.9544872,
+    "ward_name": "Ward_7423"
+  },
+  "Port of Mongla": {
+    "latitude": 22.4886,
+    "longitude": 89.5926,
+    "ward_name": "Ward_8270"
+  },
+  "Port of Paira": {
+    "latitude": 21.9894,
+    "longitude": 90.2792,
+    "ward_name": "Ward_8171"
+  },
+  "Kamarajar Port Limited, Ennore": {
+    "latitude": 13.2547,
+    "longitude": 80.3202,
+    "ward_name": "Ward_7361"
+  },
+  "Dabhol LNG Terminal": {
+    "latitude": 17.5242,
+    "longitude": 73.1689,
+    "ward_name": "Ward_7754"
+  },
+  "INS Dweeprakshak": {
+    "latitude": 10.5723,
+    "longitude": 72.6358,
+    "ward_name": "Ward_7053"
+  },
+  "INS Vajrabahu": {
+    "latitude": 18.9283,
+    "longitude": 72.8352,
+    "ward_name": "Ward_7853"
+  },
+  "Al Duqm Port & Drydock": {
+    "latitude": 19.6606,
+    "longitude": 57.6992,
+    "ward_name": "Ward_7938"
+  },
+  "Al Qunfotha": {
+    "latitude": 19.1208,
+    "longitude": 41.0841,
+    "ward_name": "Ward_7922"
   }
+}

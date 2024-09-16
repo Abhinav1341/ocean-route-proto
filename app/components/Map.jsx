@@ -66,7 +66,7 @@ const MapComponent = ({ markers, path }) => {
     return () => map.remove();
   }, [markers, path]);
 
-  return <div id="map" style={{ height: "600px", width: "100%" }} />;
+  return <div id="map" style={{ height: "500px", width: "100%" }} />;
 };
 
 export default MapComponent;
