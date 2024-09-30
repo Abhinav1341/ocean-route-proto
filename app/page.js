@@ -39,7 +39,7 @@ export default function Home() {
   const handleShowMap = () => {
     setIsLoading(true); // Start loading
     setShowMap(false); // Hide map temporarily
-
+  
     if (selectedPorts.origin && selectedPorts.destination) {
       const data = {
         start_lat: selectedPorts.origin.latitude,
@@ -48,7 +48,7 @@ export default function Home() {
         end_long: selectedPorts.destination.longitude,
       };
 
-      fetch("http://3.27.184.84:5000/getRoute", {
+      fetch("/api/proxy", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
